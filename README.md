@@ -27,7 +27,7 @@ GPT4LeetCode is a solution generator for Data Structure and Algorithm (DSA) prob
     Create a `.env` file in the frontend directory with the following content:
 
     ```
-    VITE_BACKEND_URL = 'http://43.205.242.86:8000' # or your express/nodejs server
+    VITE_BACKEND_URL = 'http://localhost:8000' # or your express/nodejs server
     ```
 
 2. **Backend .env**
