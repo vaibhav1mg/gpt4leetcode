@@ -1,0 +1,6 @@
+[submodule "Frontend"]
+	path = Frontend
+	url = https://github.com/Frostbite-ai/gpt4leetcode-Frontend
+[submodule "Backend"]
+	path = Backend
+	url = https://github.com/Frostbite-ai/gpt4leetcode-Backend
